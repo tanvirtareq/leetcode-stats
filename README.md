@@ -1,3 +1,2 @@
 # leetcode-stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/tanvirtareq)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tanvirtareq)](https://leetcode.com/tanvirtareq)
